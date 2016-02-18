@@ -1,6 +1,6 @@
 {
   "name": "cozy-files",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Cozy files allows to store files in your cozy",
   "author": "Cozy Cloud <contact@cozycloud.cc> (http://cozycloud.cc)",
   "licenses": [
@@ -70,6 +70,9 @@
       "description": "To easily find your contact when sharing files & folders."
     },
     "User": {
+      "description": "Need information for the from part of email sent."
+    },
+    "Notes": {
       "description": "Need information for the from part of email sent."
     },
     "send mail from user": {
