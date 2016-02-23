@@ -5,7 +5,6 @@ americano = require('americano');
 
 errorHandler = require('./server/middlewares/errors');
 
-initialize = require('./server/initialize');
 
 application = module.exports = function(callback) {
   var options;
